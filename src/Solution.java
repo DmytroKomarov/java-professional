@@ -16,6 +16,7 @@ public class Solution {
         } else {
             System.out.println("А как такое может быть???");
             //fsdffngnb
+            //task1
         }
     }
 }
