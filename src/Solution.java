@@ -15,7 +15,7 @@ public class Solution {
             System.out.println("меньше");
         } else {
             System.out.println("А как такое может быть???");
-            //fsdf
+            //fsdffngnb
         }
     }
 }
